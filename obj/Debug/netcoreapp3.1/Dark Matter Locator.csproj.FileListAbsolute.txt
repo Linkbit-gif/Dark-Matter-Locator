@@ -1,0 +1,64 @@
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Dark Matter Locator.exe
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Dark Matter Locator.deps.json
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Dark Matter Locator.runtimeconfig.json
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Dark Matter Locator.runtimeconfig.dev.json
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Dark Matter Locator.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Dark Matter Locator.pdb
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Dark Matter Locator.Views.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Dark Matter Locator.Views.pdb
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.csproj.AssemblyReference.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.AssemblyInfoInputs.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.AssemblyInfo.cs
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.csproj.CoreCompileInputs.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.RazorAssemblyInfo.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.RazorAssemblyInfo.cs
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\staticwebassets\Dark Matter Locator.StaticWebAssets.Manifest.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\staticwebassets\Dark Matter Locator.StaticWebAssets.xml
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\scopedcss\bundle\Dark Matter Locator.styles.css
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.TagHelpers.input.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.TagHelpers.output.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.RazorCoreGenerate.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.RazorTargetAssemblyInfo.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.RazorTargetAssemblyInfo.cs
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.Views.pdb
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.csproj.CopyComplete
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.pdb
+C:\Users\rdonn\source\repos\Dark Matter Locator\obj\Debug\netcoreapp3.1\Dark Matter Locator.genruntimeconfig.cache
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Azure.Storage.Files.Shares.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Azure.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rdonn\source\repos\Dark Matter Locator\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

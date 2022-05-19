@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "storage1": {
+      "resourceId": null,
+      "type": "storage.emulator",
+      "connectionId": "informative_data",
+      "secretStore": "LocalSecretsFile"
+    }
+  }
+}
